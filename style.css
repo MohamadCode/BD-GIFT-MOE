@@ -4,12 +4,16 @@ body {
     font-family: 'Happy Monkey', cursive;
     background-color: #1C1C1C;
     color: #ffffff;
+   
+}
+
+
+#header {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
 }
-
 
 h1, h2, h4 {
     text-shadow: 4px 2px 1px black;
