@@ -42,6 +42,12 @@ h1, h2, h4 {
     border: 3px solid #9F9F9F;
 }
 
+
+
+.gift__section {
+    height: 500px;
+}
+
 .gift-box {
     width: 400px;
 }
