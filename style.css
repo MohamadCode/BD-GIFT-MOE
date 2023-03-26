@@ -48,6 +48,16 @@ h1, h2, h4 {
     height: 500px;
 }
 
+.happy {
+margin-bottom: 10px;
+}
+
+.hover {
+margin-bottom: 10px;
+}
+
 .gift-box {
+    border: 1px solid white;
+    border-radius: 10px;
     width: 400px;
 }
