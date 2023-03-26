@@ -4,18 +4,30 @@ body {
     font-family: 'Happy Monkey', cursive;
     background-color: #1C1C1C;
     color: #ffffff;
-
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 
 h1, h2, h4 {
-    text-shadow: 4px 4px 1px black;
+    text-shadow: 4px 2px 1px black;
 
 }
 
+.age {
+    background: #9F9F9F;
+}
+
+
+.date {
+    background: #9F9F9F;
+}
 
 .Moe {
     width: 200px;
     border-radius: 50%;
     border: 3px solid #9F9F9F;
 }
+
