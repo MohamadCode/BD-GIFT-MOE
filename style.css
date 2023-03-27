@@ -64,3 +64,9 @@ margin-bottom: 10px;
     background-image: url(./Black-gift-box-on-transparent-background-PNG.png);
     margin: 20px auto;
 }
+
+.gift-box:hover {
+    background-image: url(/erwin-erwin-smith.gif);
+    background-size: cover;
+    background-position: center;
+}
