@@ -88,3 +88,13 @@ margin-bottom: 10px;
 #gift__badass:hover {
     background-image: url(./assets/muhammed-ali.gif);
 }
+
+#gift__friend {
+    height: 200px;
+    background-position: center;
+}
+
+
+#gift__friend:hover {
+    background-image: url(./assets/salute-bet.gif);
+}
