@@ -98,3 +98,9 @@ margin-bottom: 10px;
 #gift__friend:hover {
     background-image: url(./assets/salute-bet.gif);
 }
+
+
+#footer {
+    font-size: 20px;
+    font-style: italic;
+}
