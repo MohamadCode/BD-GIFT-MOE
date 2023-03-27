@@ -62,7 +62,9 @@ margin-bottom: 10px;
     width: 400px;
     height: 400px;
     background-image: url(./assets/Black-gift-box-on-transparent-background-PNG.png);
-    margin: 20px auto 40px auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: ;
 }
 
 .gift-box:hover {
@@ -75,4 +77,9 @@ margin-bottom: 10px;
 
 #gift__react:hover {
     background-image: url(./assets/patrick-bateman-sigma.gif);
+}
+
+
+#gift__describe:hover {
+    background-image: url(./assets/giga-chad-chad.gif);
 }
